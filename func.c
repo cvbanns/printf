@@ -78,13 +78,13 @@ count++;
 return (count);
 }
 /**
- * print_binaire - convert an integer to binary (base 2).
+ * print_binary - convert an integer to binary (base 2).
  *
  * @b: the list of arguments.
  *
  * Return: number of printed element.
  */
-int print_binaire(va_list b)
+int print_binary(va_list b)
 {
 unsigned int binary[32];
 int i = 0;
