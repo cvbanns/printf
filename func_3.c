@@ -20,7 +20,6 @@ for (c = i - 1; c >= 0; c--)
 _putchar(s[c]);
 return (i);
 }
-
 /**
  * print_P - prints a string and returns the length of string
  * @p: the list of arguments
@@ -63,4 +62,4 @@ count++;
 }
 }
 return (count);
-}	
+}
